@@ -1,12 +1,7 @@
-- 👋 Hi, I’m @stephanGuimaraess
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-stephanGuimaraess/stephanGuimaraess is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m @stephanGuimaraess  
+- 👀 I’m interested in web development, clean code, open source, and all things JavaScript/TypeScript.  
+- 🌱 I’m currently learning advanced NestJS, system architecture, and diving deeper into DevOps practices.  
+- 💞️ I’m looking to collaborate on open-source projects, especially in the JavaScript/TypeScript ecosystem.  
+- 📫 How to reach me: stephanguimaraess@gmail.com or [LinkedIn](https://www.linkedin.com/in/stephan-guimar%C3%A3es-93a708203/)  
+- 😄 Pronouns: he/him 
+- ⚡ Fun fact: I love turning coffee into code and breaking things just to fix them better! ☕💻 
