@@ -1,7 +1,17 @@
-- 👋 Hi, I’m @stephanGuimaraess  
-- 👀 I’m interested in web development, clean code, open source, and all things JavaScript/TypeScript.  
-- 🌱 I’m currently learning advanced NestJS, system architecture, and diving deeper into DevOps practices.  
-- 💞️ I’m looking to collaborate on open-source projects, especially in the JavaScript/TypeScript ecosystem.  
-- 📫 How to reach me: stephanguimaraess@gmail.com or [LinkedIn](https://www.linkedin.com/in/stephan-guimar%C3%A3es-93a708203/)  
-- 😄 Pronouns: he/him 
-- ⚡ Fun fact: I love turning coffee into code and breaking things just to fix them better! ☕💻 
+👋 Hi, I’m Stephan!
+
+🚀 Passionate developer focused on system architecture, clean code, and modern web technologies.
+
+💻 My daily work revolves around JavaScript/TypeScript, building backends with NestJS and frontends with Next.js, always aiming for scalable and secure solutions.
+
+🔐 Experienced with authentication and authorization using Keycloak, messaging with RabbitMQ, caching/distribution with Redis, and relational databases like PostgreSQL.
+
+🛠️ Also exploring DevOps and cloud practices to understand the full lifecycle of applications — from idea to production.
+
+🤝 I’m looking to collaborate on open-source projects, especially within the JavaScript/TypeScript ecosystem, sharing knowledge and learning from the community.
+
+📬 Reach me at: stephanguimaraess@gmail.com
+ or on LinkedIn
+.
+
+☕ Fun fact: I turn coffee into code — and I often break things on purpose just to rebuild them better.
