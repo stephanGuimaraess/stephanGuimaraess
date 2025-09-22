@@ -13,5 +13,3 @@
 📬 Reach me at: stephanguimaraess@gmail.com
  or on LinkedIn
 .
-
-☕ Fun fact: I turn coffee into code — and I often break things on purpose just to rebuild them better.
