@@ -10,6 +10,6 @@
 
 🤝 I’m looking to collaborate on open-source projects, especially within the JavaScript/TypeScript ecosystem, sharing knowledge and learning from the community.
 
-📬 Reach me at: stephanguimaraess@gmail.com
+📬 Reach me at: stephan.guimaraess@gmail.com
  or on LinkedIn
 .
