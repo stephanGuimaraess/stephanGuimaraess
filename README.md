@@ -71,6 +71,7 @@ Desenvolvimento de interfaces performáticas e aplicações multiplataforma.
 * **Multidisciplinaridade:** Capacidade de transitar entre construir uma API de processamento de vídeo em **Python**, uma aplicação Desktop em **C#** ou gerenciar clusters de containers.
 * **Performance First:** Uso de **ClickHouse** para Big Data e **Redis/BullMQ** para garantir que o I/O não bloqueie a aplicação.
 * **Clean Code:** Adesão estrita a padrões de projeto, SOLID e documentação via Swagger.
+* **Fluent English:** Apto para comunicação técnica, escrita e atuação direta em equipes internacionais (Global Readiness). 
 
 ---
 
